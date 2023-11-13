@@ -1,0 +1,21 @@
+body {
+    background-color: lavender;
+}
+
+img {
+    border: 5px solid red;
+}
+
+.cars {
+    margin: 50px;
+}
+
+.car1 {
+    width: 250px;
+    height: 250px;
+}
+
+.car2 {
+    width: 250px;
+    height: 250px;
+}
